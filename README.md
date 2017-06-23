@@ -16,6 +16,6 @@ The screenshot directory contains the Postman screens showing the good and bad r
 
 technology used
 ===============
-+Node.js is the javascript server platform
-+Express - framework for routing and middleware
-+morgan - HTTP logging
+*Node.js is the javascript server platform
+*Express - framework for routing and middleware
+*morgan - HTTP logging
